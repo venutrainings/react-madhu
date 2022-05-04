@@ -1,0 +1,12 @@
+td,tr,th{
+    border: 1px solid black;
+    padding-left: 25px;
+  }
+  tr{
+      padding: 10px;
+      padding-left: 25px;
+  }
+  .deleteIcon{
+      height: 20px;
+      width: 20px;
+  }
